@@ -1,5 +1,7 @@
 # todo-app
 
+![](./todo-app.png)
+
 ## Project setup
 ```
 npm install
