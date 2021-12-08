@@ -1,4 +1,4 @@
-# todo-app
+# Vue Todo-app
 
 ![](./todo-app.png)
 
