@@ -2,6 +2,10 @@
 
 ![](./todo-app.png)
 
+## Description
+Learning Vue Js 3 implementing new Vue Composition 3 API & State management with Vuex.
+For the data storage i'm using JSONPlaceholder server.
+
 ## Project setup
 ```
 npm install
